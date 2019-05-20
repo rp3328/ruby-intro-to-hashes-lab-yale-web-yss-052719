@@ -1,5 +1,5 @@
 def new_hash
-	ahash = {:red => {}, :blue => {}}
+	ahash = {}
 	return ahash
 end
 
