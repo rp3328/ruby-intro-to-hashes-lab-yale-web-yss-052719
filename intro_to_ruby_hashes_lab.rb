@@ -1,5 +1,6 @@
 def new_hash
-
+	ahash = {:red => {}, :blue => {}}
+	return ahash
 end
 
 def actor
